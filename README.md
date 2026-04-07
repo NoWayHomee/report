@@ -11,7 +11,7 @@ Tài liệu này cung cấp cái nhìn tổng thể về thiết kế của hệ
 Mô hình thực thể kết nối (ERD) thể hiện cấu trúc lưu trữ, các bảng dữ liệu và mối quan hệ giữa các thực thể cốt lõi trong hệ thống.
 
 ![Sơ đồ ERD](diagrams/ERD.drawio.png)
-> 🔗 [Mở bản gốc ERD trên draw.io]([Link_DrawIO_Của_Nhóm_Vào_Đây](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=NoWayHome.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1E2XdDDvcfCm3aD3TmFTymMHeSQF2c1DT%26export%3Ddownload))
+> 🔗 [Mở bản gốc ERD trên draw.io]([https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=NoWayHome.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1E2XdDDvcfCm3aD3TmFTymMHeSQF2c1DT%26export%3Ddownload])
 
 ---
 
